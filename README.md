@@ -11,6 +11,6 @@ Bài tập môn React
 8. [Câu 16](https://codepen.io/TranDangHai/pen/jOKvRaO)
 9. [Câu 17](https://codepen.io/TranDangHai/pen/YzvOMEv)
 ## Thực hành
-1.[Bài thực hành pros và state]()
-2.[Bài thực hành số 1]()
-3.[Bài thực hành số 2]()
+1. [Bài thực hành pros và state]()
+2. [Bài thực hành số 1]()
+3. [Bài thực hành số 2]()
