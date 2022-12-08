@@ -12,7 +12,7 @@ Bài tập môn React
 9. [Câu 17](https://codepen.io/TranDangHai/pen/YzvOMEv)
 10. [Câu 18](https://codepen.io/TranDangHai/pen/XWYGbEd)
 11. [Câu 19](https://codepen.io/TranDangHai/pen/GRGeJdB)
-12. [Câu 20](https://codepen.io/TranDangHai/pen/qBKvdyj
+12. [Câu 20](https://codepen.io/TranDangHai/pen/qBKvdyj)
 13. [Câu 21](https://codepen.io/TranDangHai/pen/oNyVXPo)
 ## Thực hành
 1. [Bài thực hành pros và state]()
