@@ -16,5 +16,7 @@ Bài tập môn React
 13. [Câu 21](https://codepen.io/TranDangHai/pen/oNyVXPo)
 ## Thực hành
 1. [Bài thực hành tạo React và component](https://codesandbox.io/s/exciting-hofstadter-5c3f70)
-2. [Bài thực hành số 1]()
-3. [Bài thực hành số 2]()
+2. [Bài thực hành tạo Props và State]()
+3. [Bài thực hành số 1]()
+4. [Bài thực hành số 2]()
+5. [Bài thực hành số 3]()
