@@ -17,6 +17,6 @@ Bài tập môn React
 ## Thực hành
 1. [Bài thực hành tạo React và component](https://codesandbox.io/s/exciting-hofstadter-5c3f70)
 2. [Bài thực hành tạo Props và State]()
-3. [Bài thực hành số 1]()
-4. [Bài thực hành số 2]()
-5. [Bài thực hành số 3]()
+3. [Bài thực hành số 1](https://codesandbox.io/s/baitapthuchanh1-xtevxs)
+4. [Bài thực hành số 2](https://codesandbox.io/s/baithuchanhso2-rzp0uc)
+5. [Bài thực hành số 3](https://codesandbox.io/s/baithuchanhso3-jk4ekh)
